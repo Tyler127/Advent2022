@@ -1,4 +1,4 @@
-package Day5;
+package Day5_SupplyStacks;
 
 import java.io.File;
 import java.util.*;

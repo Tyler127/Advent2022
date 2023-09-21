@@ -1,7 +1,6 @@
-package Day5;
+package Day5_SupplyStacks;
 
 import java.io.File;
-import java.lang.reflect.Array;
 import java.util.*;
 
 // PLACE: ~1700 for 2 stars
